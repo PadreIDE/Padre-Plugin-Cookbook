@@ -37,7 +37,7 @@ install_share;
 # additinal
 homepage 'http://padre.perlide.org/trac/wiki/PadrePluginDialog';
 bugtracker 'http://padre.perlide.org/trac';
-repository 'http://svn.perlide.org/padre/trunk/Padre-Plugin-Cookbook/';
+repository 'https://github.com/PadreIDE/Padre-Plugin-Cookbook/';
 
 no_index 'directory' => qw{ fbp inc share t xt };
 
